@@ -1,0 +1,8 @@
+{"name":"typescirpt-review",
+  "scripts":{
+    "start":"lite-server rootDir:dist"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
